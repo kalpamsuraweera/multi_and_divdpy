@@ -4,3 +4,5 @@ if num2!=0:
 else:
     print("you can't use 0 to divid")
 print("multiple",num1*num2)
+exit=input("press enter to  exit")
+
